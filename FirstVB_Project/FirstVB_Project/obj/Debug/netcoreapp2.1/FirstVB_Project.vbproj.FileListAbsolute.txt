@@ -1,0 +1,11 @@
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\bin\Debug\netcoreapp2.1\FirstVB_Project.deps.json
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\bin\Debug\netcoreapp2.1\FirstVB_Project.runtimeconfig.json
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\bin\Debug\netcoreapp2.1\FirstVB_Project.runtimeconfig.dev.json
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\bin\Debug\netcoreapp2.1\FirstVB_Project.dll
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\bin\Debug\netcoreapp2.1\FirstVB_Project.pdb
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\obj\Debug\netcoreapp2.1\FirstVB_Project.vbprojAssemblyReference.cache
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\obj\Debug\netcoreapp2.1\FirstVB_Project.vbproj.CoreCompileInputs.cache
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\obj\Debug\netcoreapp2.1\FirstVB_Project.AssemblyInfoInputs.cache
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\obj\Debug\netcoreapp2.1\FirstVB_Project.AssemblyInfo.vb
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\obj\Debug\netcoreapp2.1\FirstVB_Project.dll
+C:\VisualStudioFiles\FirstVB_Project\FirstVB_Project\obj\Debug\netcoreapp2.1\FirstVB_Project.pdb
